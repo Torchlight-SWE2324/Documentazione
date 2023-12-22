@@ -43,7 +43,7 @@ La repository e' strutturata nella seguente maniera:
 <b>RTB</b>
   - [Lettera di Presentazione](exaple.com)
   - Documentazione Esterna
-    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.3.1.pdf)
+    - [Analisi dei Requisiti](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/2%20-%20RTB/Documentazione%20Esterna/analisi_requisiti_v0.4.pdf)
     - [Glossario](exaple.com)
     - [Piano di Progetto](exaple.com)
     - [Piano di Qualifica](exaple.com)
