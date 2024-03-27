@@ -81,7 +81,8 @@ In questa repository sono contenuti tutti i documenti prodotti dal gruppo torchl
   - [Manuale Utente (Versione 1.0.0)](example.com)
   - [Specifica Architetturale (Versione 1.0.0)](example.com)
   - Verbali Esterni
-    - [Verbale esterno del 2024/MM/GG (Approvato dal proponente)](example.com)
+    - [Verbale esterno del 2024/03/08 (Approvato dal proponente)](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/3%20-%20PB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2024_03_08.pdf) (Approvato dal proponente)
+    - [Verbale esterno del 2024/03/20 (Approvato dal proponente)](https://github.com/Torchlight-SWE2324/Documentazione/blob/main/3%20-%20PB/Documentazione%20Esterna/Verbali%20Esterni/verbale_esterno_2024_03_20.pdf) (Approvato dal proponente)
 
 <br/>
 
